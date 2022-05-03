@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="401e48b2-62a3-46db-a23a-b8870662c6aa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bytebank-herdado.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Funcionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TesteFuncionario.java" afterDir="false" />
+    <list default="true" id="401e48b2-62a3-46db-a23a-b8870662c6aa" name="Changes" comment="A1-P1">
+      <change afterPath="$PROJECT_DIR$/src/Gerente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TesteGerente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +23,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/Funcionario.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Gerente.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/TesteFuncionario.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -45,7 +41,19 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TesteGerente">
+    <configuration name="Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Teste" />
+      <module name="bytebank-herdado" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TesteFuncionario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TesteFuncionario" />
       <module name="bytebank-herdado" />
@@ -53,8 +61,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TesteGerente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TesteGerente" />
+      <module name="bytebank-herdado" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TesteGerente" />
+        <item itemvalue="Application.Teste" />
         <item itemvalue="Application.TesteFuncionario" />
       </list>
     </recent_temporary>
@@ -68,6 +85,14 @@
       <option name="presentableId" value="Default" />
       <updated>1651581485049</updated>
     </task>
+    <task id="LOCAL-00001" summary="A1-P1">
+      <created>1651582504488</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1651582504488</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -80,5 +105,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="A1-P1" />
+    <option name="LAST_COMMIT_MESSAGE" value="A1-P1" />
   </component>
 </project>
