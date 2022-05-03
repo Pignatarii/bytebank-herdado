@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="401e48b2-62a3-46db-a23a-b8870662c6aa" name="Changes" comment="A1-P1">
+    <list default="true" id="401e48b2-62a3-46db-a23a-b8870662c6aa" name="Changes" comment="A2">
+      <change afterPath="$PROJECT_DIR$/src/ControleBonificacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TesteReferencias.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Funcionario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gerente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TesteGerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TesteGerente.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,10 +22,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/Funcionario.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/Gerente.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/TesteFuncionario.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/TesteGerente.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/ControleBonificacao.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Funcionario.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Gerente.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/TesteFuncionario.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/TesteGerente.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/TesteReferencias.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -37,18 +38,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TesteGerente">
+  <component name="RunManager" selected="Application.TesteReferencias">
     <configuration name="Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Teste" />
       <module name="bytebank-herdado" />
@@ -70,8 +71,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TesteReferencias" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TesteReferencias" />
+      <module name="bytebank-herdado" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TesteReferencias" />
         <item itemvalue="Application.TesteGerente" />
         <item itemvalue="Application.TesteFuncionario" />
         <item itemvalue="Application.Teste" />
@@ -101,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651589421275</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="A2">
+      <created>1651598337876</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1651598337876</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -117,6 +133,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="A1-P1" />
-    <option name="LAST_COMMIT_MESSAGE" value="A1-P1" />
+    <MESSAGE value="A2" />
+    <option name="LAST_COMMIT_MESSAGE" value="A2" />
   </component>
 </project>
