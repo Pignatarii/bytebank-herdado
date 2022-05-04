@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="401e48b2-62a3-46db-a23a-b8870662c6aa" name="Changes" comment="A3-2">
-      <change afterPath="$PROJECT_DIR$/src/Designer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EditorVideo.java" afterDir="false" />
+    <list default="true" id="401e48b2-62a3-46db-a23a-b8870662c6aa" name="Changes" comment="A3-F">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ControleBonificacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ControleBonificacao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Designer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Designer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EditorVideo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EditorVideo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Funcionario.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gerente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TesteFuncionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TesteFuncionario.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/TesteReferencias.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TesteReferencias.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +51,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/alexandre/rep/bytebank-herdado",
     "settings.editor.selected.configurable": "editor.preferences.appearance"
   }
 }]]></component>
@@ -133,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651610235070</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="A3-F">
+      <created>1651676460366</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1651676460366</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -151,7 +160,8 @@
     <MESSAGE value="A1-P1" />
     <MESSAGE value="A2" />
     <MESSAGE value="A3-2" />
-    <option name="LAST_COMMIT_MESSAGE" value="A3-2" />
+    <MESSAGE value="A3-F" />
+    <option name="LAST_COMMIT_MESSAGE" value="A3-F" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
